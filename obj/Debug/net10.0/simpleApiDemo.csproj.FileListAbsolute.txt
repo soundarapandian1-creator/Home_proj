@@ -31,3 +31,4 @@
 /Users/thanvi/Documents/Projects/simpleApiDemo/obj/Debug/net10.0/simpleApiDemo.pdb
 /Users/thanvi/Documents/Projects/simpleApiDemo/obj/Debug/net10.0/simpleApiDemo.genruntimeconfig.cache
 /Users/thanvi/Documents/Projects/simpleApiDemo/obj/Debug/net10.0/ref/simpleApiDemo.dll
+/Users/thanvi/Documents/Projects/simpleApiDemo/obj/Debug/net10.0/simpleApiDemo.sourcelink.json
